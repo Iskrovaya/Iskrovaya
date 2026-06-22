@@ -46,7 +46,7 @@ $ id --verbose
 
 $ cat ~/.philosophy
 
-  → Privacy is not about hiding. It's about choosing.
+  → Privacy is not about hiding. It’s about choosing.
   → Anonymity is the armor of the powerless against the powerful.
   → Decentralization is not ideology. It is architecture.
   → The code is speech. Write it accordingly.
@@ -119,7 +119,7 @@ $ gpg --list-preferred
 
   PGP            →  always
   Signal         →  preferred
-  Email (plain)  →  don't bother
+  Email (plain)  →  don’t bother
 ```
 
 <!-- Add your PGP fingerprint or contact links here -->
